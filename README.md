@@ -1,0 +1,1 @@
+# tecno_ke5k_device_tree
