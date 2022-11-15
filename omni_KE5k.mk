@@ -15,8 +15,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 # Inherit from TECNO-KE5k device
 $(call inherit-product, device/tecno/TECNO-KE5k/device.mk)
 
-PRODUCT_DEVICE := TECNO-KE5k
-PRODUCT_NAME := omni_TECNO-KE5k
+PRODUCT_DEVICE := KE5k
+PRODUCT_NAME := omni_KE5k
 PRODUCT_BRAND := TECNO
 PRODUCT_MODEL := TECNO KE5k
 PRODUCT_MANUFACTURER := tecno
