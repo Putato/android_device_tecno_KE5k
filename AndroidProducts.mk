@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_KE5k.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_TECNO-KE5k-user \
-    omni_TECNO-KE5k-userdebug \
-    omni_TECNO-KE5k-eng
+    omni_KE5k-user \
+    omni_KE5k-userdebug \
+    omni_KE5k-eng
